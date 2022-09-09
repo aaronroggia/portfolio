@@ -1,4 +1,4 @@
-# Please click the links below to view my examples of analyses with Python:
+# Please click the links below to view examples of my analyses with Python:
 
 ## [Ensemble Time Series Forecasting of Revenue](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
 ![Ensemble Time Series](https://user-images.githubusercontent.com/109747071/189266014-7b743c76-c7f2-4965-9bd3-2eaf41ef507c.png)
