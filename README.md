@@ -10,7 +10,7 @@
 ![K-Means Clustering](https://user-images.githubusercontent.com/109747071/189266009-e51245e0-27a2-4d7e-a5c4-a07a6cf03d88.png)
 
 ## Analyses coming soon: 
-  - A/B Testing of Retention and Revenue
+  - A/B Testing
   - Conjoint Analysis
   - Classification with Machine Learning / Artificial Neural Networks
   - Regression with Machine Learning / Artificial Neural Networks
