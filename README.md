@@ -11,5 +11,5 @@
 
 ## Analyses coming soon: 
   - A/B Testing
-  - Classification Prediction with Machine Learning & Artificial Neural Networks
   - Regression Prediction with Machine Learning & Artificial Neural Networks
+  - Classification Prediction with Machine Learning & Artificial Neural Networks
