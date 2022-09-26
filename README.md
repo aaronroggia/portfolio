@@ -11,6 +11,5 @@
 
 ## Analyses coming soon: 
   - A/B Testing
-  - Conjoint Analysis
   - Classification Prediction with Machine Learning & Artificial Neural Networks
   - Regression Prediction with Machine Learning & Artificial Neural Networks
