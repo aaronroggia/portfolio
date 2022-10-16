@@ -10,6 +10,9 @@
 ![Cohort Analysis Retention](https://user-images.githubusercontent.com/109747071/189266748-e2453fe0-abf1-4080-b6ef-711a1c2a9415.png)
 
 ## Analyses coming soon: 
+  - Regression Predictions with Machine Learning
+  - Regression Predictions with Deep Learning
+  - Classification Predictions with Machine Learning
+  - Classification Predictions with Deep Learning
   - Hypothesis Testing
-  - Regression Prediction with Machine Learning & Artificial Neural Networks
-  - Classification Prediction with Machine Learning & Artificial Neural Networks
+  - Recommendation Systems
