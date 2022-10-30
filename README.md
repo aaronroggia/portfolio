@@ -1,4 +1,4 @@
-# Please click the links below to view examples of my analyses with Python:
+# Please click the links below to view examples of the kind of work I can do for you with Python:
 
 ## [Ensemble Time Series Forecast of Revenue](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
 ![Ensemble Time Series](https://user-images.githubusercontent.com/109747071/189397995-0aefac78-5a74-4720-8be5-3a74af3ba9ca.png)
@@ -8,11 +8,3 @@
 
 ## [Cohort Analysis of Retention](https://github.com/aaronroggia/portfolio/blob/main/Cohort%20Analysis%20of%20Retention.ipynb)
 ![Cohort Analysis Retention](https://user-images.githubusercontent.com/109747071/189266748-e2453fe0-abf1-4080-b6ef-711a1c2a9415.png)
-
-## Analyses coming soon: 
-  - Regression Predictions with Machine Learning
-  - Regression Predictions with Deep Learning
-  - Classification Predictions with Machine Learning
-  - Classification Predictions with Deep Learning
-  - Hypothesis Testing
-  - Recommendation Systems
