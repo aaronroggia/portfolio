@@ -4,7 +4,7 @@
 ![Churn Prediction with Machine Learning](https://github.com/aaronroggia/portfolio/blob/cb1786544fca05e6f2cbf8f348cffc6c0b6ece9b/Profit%20from%20Churn%20Prediction.png) 
 
 ## [Ensemble Time Series Forecast of Revenue](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
-![Ensemble Time Series](https://user-images.githubusercontent.com/109747071/189397995-0aefac78-5a74-4720-8be5-3a74af3ba9ca.png)
+![Ensemble Time Series](https://github.com/aaronroggia/portfolio/blob/df3a447c7c5d91f87b04ca6671e618d94fdd5172/Revenue%20Forecast.png)
 
 ## [Customer Segmentation with K-Means Clustering](https://github.com/aaronroggia/portfolio/blob/main/K-Means%20Clustering%20for%20Segmentation.ipynb)
 ![K-Means Clustering](https://user-images.githubusercontent.com/109747071/189266009-e51245e0-27a2-4d7e-a5c4-a07a6cf03d88.png)
