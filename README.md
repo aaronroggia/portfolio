@@ -1,5 +1,8 @@
 # Click the links below for examples my work with Python:
 
+## [Churn Prediction with Machine Learning and Deep Learning] (https://github.com/aaronroggia/portfolio/blob/main/Churn%20Prediction%20with%20Machine%20Learning.ipynb)
+![Churn Prediction with Machine Learning](https://github.com/aaronroggia/portfolio/blob/cb1786544fca05e6f2cbf8f348cffc6c0b6ece9b/Profit%20from%20Churn%20Prediction.png) 
+
 ## [Ensemble Time Series Forecast of Revenue](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
 ![Ensemble Time Series](https://user-images.githubusercontent.com/109747071/189397995-0aefac78-5a74-4720-8be5-3a74af3ba9ca.png)
 
