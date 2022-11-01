@@ -1,4 +1,4 @@
-# Click the links below for examples work I can do with Python:
+# Click the links below for examples my work with Python:
 
 ## [Ensemble Time Series Forecast of Revenue](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
 ![Ensemble Time Series](https://user-images.githubusercontent.com/109747071/189397995-0aefac78-5a74-4720-8be5-3a74af3ba9ca.png)
