@@ -9,8 +9,8 @@
 ## [Customer Lifetime Value Prediction with 12 Machine Learning Models](https://github.com/aaronroggia/portfolio/blob/1789495d6ccd9c17922495eea85b3679a5847a42/Customer%20Lifetime%20Value%20Prediction%20with%20Machine%20Learning.ipynb)
 ![Customer Lifetime Value Prediction](https://github.com/aaronroggia/portfolio/blob/b0d1bdf288327ef1f9fd921448ebbd93dc5a6f04/Customer%20Lifetime%20Value%20Prediction.png)
 
-## [Customer Segmentation with K-Means Clustering](https://github.com/aaronroggia/portfolio/blob/main/K-Means%20Clustering%20for%20Segmentation.ipynb)
-![K-Means Clustering](https://user-images.githubusercontent.com/109747071/189266009-e51245e0-27a2-4d7e-a5c4-a07a6cf03d88.png)
+## [Customer Segmentation with K-Means Clustering](https://github.com/aaronroggia/portfolio/blob/74f96050c8e51c4f48bdeeb38ea51d93c9eda2fe/K-Means%20Clustering%20for%20Segmentation.ipynb)
+![K-Means Clustering](https://github.com/aaronroggia/portfolio/blob/74f96050c8e51c4f48bdeeb38ea51d93c9eda2fe/K-Means%20Clustering%20Customer%20Segmentation.png)
 
 ## [Cohort Analysis of Customer Retention](https://github.com/aaronroggia/portfolio/blob/main/Cohort%20Analysis%20of%20Retention.ipynb)
 ![Cohort Analysis Retention](https://user-images.githubusercontent.com/109747071/189266748-e2453fe0-abf1-4080-b6ef-711a1c2a9415.png)
