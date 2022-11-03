@@ -1,6 +1,6 @@
 # Click the links below for examples of my work with Python:
 
-## [Customer Churn Prediction with 15 Machine Learning and Deep Learning Models](https://github.com/aaronroggia/portfolio/blob/main/Churn%20Prediction%20with%20Machine%20Learning.ipynb)
+## [Customer Churn Prediction with 15 Machine Learning Models](https://github.com/aaronroggia/portfolio/blob/main/Churn%20Prediction%20with%20Machine%20Learning.ipynb)
 ![Churn Prediction with Machine Learning](https://github.com/aaronroggia/portfolio/blob/cb1786544fca05e6f2cbf8f348cffc6c0b6ece9b/Profit%20from%20Churn%20Prediction.png) 
 
 ## [Ensemble Time Series Forecast of Revenue](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
