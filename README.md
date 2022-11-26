@@ -12,7 +12,7 @@
 ## [Customer Segmentation (K-Means Clustering)](https://github.com/aaronroggia/portfolio/blob/74f96050c8e51c4f48bdeeb38ea51d93c9eda2fe/K-Means%20Clustering%20for%20Segmentation.ipynb)
 ![K-Means Clustering](https://github.com/aaronroggia/portfolio/blob/74f96050c8e51c4f48bdeeb38ea51d93c9eda2fe/K-Means%20Clustering%20Customer%20Segmentation.png)
 
-## [Risk Analysis for New Product (Monte Carlo Simulation)](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/Monte_Carlo_Simulation.ipynb)
+## [Product Risk Analysis (Monte Carlo Simulation)](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/Monte_Carlo_Simulation.ipynb)
 ![Ensemble Time Series](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/New%20Product%20Risk%20Analysis.png)
 
 ## [Cohort Analysis of Customer Retention](https://github.com/aaronroggia/portfolio/blob/main/Cohort%20Analysis%20of%20Retention.ipynb)
