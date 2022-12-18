@@ -17,3 +17,9 @@
 
 ## [Cohort Analysis of Customer Retention](https://github.com/aaronroggia/portfolio/blob/main/Cohort%20Analysis%20of%20Retention.ipynb)
 ![Cohort Analysis Retention](https://user-images.githubusercontent.com/109747071/189266748-e2453fe0-abf1-4080-b6ef-711a1c2a9415.png)
+
+
+## [Product Revenue Analysis](https://github.com/aaronroggia/portfolio/blob/fe64dc9fa9984f53013078901b9574c72f99b631/Product_Revenue_over_Time.ipynb)
+![Product Revenue Analysis](https://github.com/aaronroggia/portfolio/blob/fe64dc9fa9984f53013078901b9574c72f99b631/Product%20Revenue%20over%20Time.png)
+
+
