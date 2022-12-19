@@ -9,14 +9,14 @@
 ## [Customer Segmentation (K-Means Clustering)](https://github.com/aaronroggia/portfolio/blob/74f96050c8e51c4f48bdeeb38ea51d93c9eda2fe/K-Means%20Clustering%20for%20Segmentation.ipynb)
 ![K-Means Clustering](https://github.com/aaronroggia/portfolio/blob/74f96050c8e51c4f48bdeeb38ea51d93c9eda2fe/K-Means%20Clustering%20Customer%20Segmentation.png)
 
-## [Product Risk Analysis (Monte Carlo Simulation)](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/Monte_Carlo_Simulation.ipynb)
-![Ensemble Time Series](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/New%20Product%20Risk%20Analysis.png)
-
 ## [Ensemble Forecast of Revenue (Time series)](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
 ![Ensemble Time Series](https://github.com/aaronroggia/portfolio/blob/df3a447c7c5d91f87b04ca6671e618d94fdd5172/Revenue%20Forecast.png)
 
-## [Product Revenue Analysis](https://github.com/aaronroggia/portfolio/blob/52e21007f2596a5780cecaab85972b09c69589bd/Product%20Revenue%20over%20Time.ipynb)
-![Product Revenue Analysis](https://github.com/aaronroggia/portfolio/blob/52e21007f2596a5780cecaab85972b09c69589bd/Product%20Revenue%20over%20Time.png)
-
 ## [Cohort Analysis of Customer Retention](https://github.com/aaronroggia/portfolio/blob/main/Cohort%20Analysis%20of%20Retention.ipynb)
 ![Cohort Analysis Retention](https://user-images.githubusercontent.com/109747071/189266748-e2453fe0-abf1-4080-b6ef-711a1c2a9415.png)
+
+## [Product Risk Analysis (Monte Carlo Simulation)](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/Monte_Carlo_Simulation.ipynb)
+![Ensemble Time Series](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/New%20Product%20Risk%20Analysis.png)
+
+## [Product Revenue Analysis](https://github.com/aaronroggia/portfolio/blob/52e21007f2596a5780cecaab85972b09c69589bd/Product%20Revenue%20over%20Time.ipynb)
+![Product Revenue Analysis](https://github.com/aaronroggia/portfolio/blob/52e21007f2596a5780cecaab85972b09c69589bd/Product%20Revenue%20over%20Time.png)
