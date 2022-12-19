@@ -12,8 +12,8 @@
 ## [Ensemble Forecast of Revenue (Time series)](https://github.com/aaronroggia/portfolio/blob/main/Ensemble%20Time%20Series%20Forecasting.ipynb)
 ![Ensemble Time Series](https://github.com/aaronroggia/portfolio/blob/df3a447c7c5d91f87b04ca6671e618d94fdd5172/Revenue%20Forecast.png)
 
-## [Cohort Analysis of Customer Retention](https://github.com/aaronroggia/portfolio/blob/main/Cohort%20Analysis%20of%20Retention.ipynb)
-![Cohort Analysis Retention](https://user-images.githubusercontent.com/109747071/189266748-e2453fe0-abf1-4080-b6ef-711a1c2a9415.png)
+## [Cohort Analysis of Customer Retention](https://github.com/aaronroggia/portfolio/blob/4b8883d3b8d6ab924d270170bc6cea56ff8858d2/Cohort%20Analysis%20of%20Retention.ipynb)
+![Cohort Analysis Retention](https://github.com/aaronroggia/portfolio/blob/4b8883d3b8d6ab924d270170bc6cea56ff8858d2/Cohort%20Retention%20Rates.png)
 
 ## [Product Risk Analysis (Monte Carlo Simulation)](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/Monte_Carlo_Simulation.ipynb)
 ![Ensemble Time Series](https://github.com/aaronroggia/portfolio/blob/8bbbe70ad4995c159f3be95b4733811341abe8ab/New%20Product%20Risk%20Analysis.png)
