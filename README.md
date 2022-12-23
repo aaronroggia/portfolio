@@ -1,6 +1,6 @@
 # Click below for examples of my use of machine learning with Python:
 
-## [Customer Churn Prediction with 15 Machine Learning Models (Classification)](https://github.com/aaronroggia/portfolio/blob/main/Churn%20Prediction%20with%20Machine%20Learning.ipynb)
+## [Customer Churn Prediction with 15 Machine Learning Models (Classification)](https://github.com/aaronroggia/portfolio/blob/e76d25b344579ecfb3d19630751e374a58c27c90/Churn%20Prediction%20with%20Machine%20Learning.ipynb)
 ![Churn Prediction with Machine Learning](https://github.com/aaronroggia/portfolio/blob/cb1786544fca05e6f2cbf8f348cffc6c0b6ece9b/Profit%20from%20Churn%20Prediction.png) 
 
 ## [Customer Lifetime Value Prediction with 14 Machine Learning Models (Regression)](https://github.com/aaronroggia/portfolio/blob/013f21328df7ddc01d98758a7b3bc7b3ec762c54/Customer%20Lifetime%20Value%20Prediction%20with%20Machine%20Learning.ipynb)
